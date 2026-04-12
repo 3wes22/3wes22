@@ -5,7 +5,6 @@
 **Software Engineer** — Backend Systems · Full-Stack Applications · Product Engineering
 
 [![GitHub](https://img.shields.io/badge/GitHub-3wes22-181717?style=flat-square&logo=github)](https://github.com/3wes22)
-[![GitHub](https://img.shields.io/badge/GitHub-MAhmed2268-181717?style=flat-square&logo=github)](https://github.com/MAhmed2268)
 
 </div>
 
