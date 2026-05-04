@@ -5,8 +5,7 @@
 **Software Engineer** — Backend Systems · Full-Stack Applications · Product Engineering
 
 [![GitHub](https://img.shields.io/badge/GitHub-3wes22-181717?style=flat-square&logo=github)](https://github.com/3wes22)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-black?style=flat&logo=linkedin)](https://www.linkedin.com/in/mohamed-awes-6b7071274/)
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mohamed%20Awes-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-awes-6b7071274/)
 </div>
 
 ---
