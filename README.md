@@ -16,6 +16,17 @@ I build projects that emphasize clean architecture, real product behavior, and w
 
 ## Featured Work
 
+---
+
+### [Sha8lny](https://github.com/MAhmed2268/Sha8lny)
+> AI-powered career development platform for the Egyptian job market.
+
+Contributed to frontend architecture, product structure, and repository organization. Engineering-focused work on a real product surface.
+
+`React` `TypeScript` `Frontend Architecture` `Product Engineering`
+
+---
+
 ### [job-seeker](https://github.com/3wes22/job-seeker)
 > Software-engineered job platform with Django microservices, JWT auth, Dockerized services, and a Flutter client.
 
@@ -32,16 +43,7 @@ Demonstrates systems thinking, language tooling fundamentals, and disciplined en
 
 `Python` `Compiler Design` `Lexer` `Parser` `PyQt5` `Testing`
 
----
 
-### [Sha8lny](https://github.com/MAhmed2268/Sha8lny)
-> AI-powered career development platform for the Egyptian job market.
-
-Contributed to frontend architecture, product structure, and repository organization. Engineering-focused work on a real product surface.
-
-`React` `TypeScript` `Frontend Architecture` `Product Engineering`
-
----
 
 ### [Multi-client-Chat-App](https://github.com/MAhmed2268/Multi-client-Chat-App)
 > Socket-based multi-client chat application with persistence, file transfer, and a desktop GUI.
